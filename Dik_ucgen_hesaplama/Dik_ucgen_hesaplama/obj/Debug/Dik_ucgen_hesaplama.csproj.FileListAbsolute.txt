@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\bin\Debug\Dik_ucgen_hesaplama.exe.config
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\bin\Debug\Dik_ucgen_hesaplama.exe
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\bin\Debug\Dik_ucgen_hesaplama.pdb
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\obj\Debug\Dik_ucgen_hesaplama.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\obj\Debug\Dik_ucgen_hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\obj\Debug\Dik_ucgen_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\obj\Debug\Dik_ucgen_hesaplama.exe
+C:\Users\aliba\Desktop\Dik_ucgen_hesaplama\Dik_ucgen_hesaplama\obj\Debug\Dik_ucgen_hesaplama.pdb
