@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\bin\Debug\vucut_kitle_indeksi_hesaplama.exe.config
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\bin\Debug\vucut_kitle_indeksi_hesaplama.exe
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\bin\Debug\vucut_kitle_indeksi_hesaplama.pdb
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\obj\Debug\vucut_kitle_indeksi_hesaplama.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\obj\Debug\vucut_kitle_indeksi_hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\obj\Debug\vucut_kitle_indeksi_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\obj\Debug\vucut_kitle_indeksi_hesaplama.exe
+C:\Users\aliba\Desktop\vucut_kitle_indeksi_hesaplama\vucut_kitle_indeksi_hesaplama\obj\Debug\vucut_kitle_indeksi_hesaplama.pdb
