@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\bin\Debug\ortalama_hesaplama2.exe.config
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\bin\Debug\ortalama_hesaplama2.exe
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\bin\Debug\ortalama_hesaplama2.pdb
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\obj\Debug\ortalama_hesaplama2.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\obj\Debug\ortalama_hesaplama2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\obj\Debug\ortalama_hesaplama2.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\obj\Debug\ortalama_hesaplama2.exe
+C:\Users\aliba\Desktop\ortalama_hesaplama2\ortalama_hesaplama2\obj\Debug\ortalama_hesaplama2.pdb
