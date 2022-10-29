@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\bin\Debug\manav_kasa_programi.exe.config
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\bin\Debug\manav_kasa_programi.exe
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\bin\Debug\manav_kasa_programi.pdb
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\obj\Debug\manav_kasa_programi.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\obj\Debug\manav_kasa_programi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\obj\Debug\manav_kasa_programi.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\obj\Debug\manav_kasa_programi.exe
+C:\Users\aliba\Desktop\manav_kasa_programi\manav_kasa_programi\obj\Debug\manav_kasa_programi.pdb
