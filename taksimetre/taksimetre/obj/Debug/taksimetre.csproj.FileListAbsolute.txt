@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\taksimetre\taksimetre\bin\Debug\taksimetre.exe.config
+C:\Users\aliba\Desktop\taksimetre\taksimetre\bin\Debug\taksimetre.exe
+C:\Users\aliba\Desktop\taksimetre\taksimetre\bin\Debug\taksimetre.pdb
+C:\Users\aliba\Desktop\taksimetre\taksimetre\obj\Debug\taksimetre.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\taksimetre\taksimetre\obj\Debug\taksimetre.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\taksimetre\taksimetre\obj\Debug\taksimetre.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\taksimetre\taksimetre\obj\Debug\taksimetre.exe
+C:\Users\aliba\Desktop\taksimetre\taksimetre\obj\Debug\taksimetre.pdb
