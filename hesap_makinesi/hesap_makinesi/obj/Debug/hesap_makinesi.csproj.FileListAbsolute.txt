@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe.config
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.exe
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\bin\Debug\hesap_makinesi.pdb
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.exe
+C:\Users\aliba\Desktop\hesap_makinesi\hesap_makinesi\obj\Debug\hesap_makinesi.pdb
