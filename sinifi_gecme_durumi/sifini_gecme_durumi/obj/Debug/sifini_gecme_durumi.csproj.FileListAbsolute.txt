@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\bin\Debug\sifini_gecme_durumi.exe.config
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\bin\Debug\sifini_gecme_durumi.exe
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\bin\Debug\sifini_gecme_durumi.pdb
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\obj\Debug\sifini_gecme_durumi.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\obj\Debug\sifini_gecme_durumi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\obj\Debug\sifini_gecme_durumi.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\obj\Debug\sifini_gecme_durumi.exe
+C:\Users\aliba\Desktop\sifini_gecme_durumi\sifini_gecme_durumi\obj\Debug\sifini_gecme_durumi.pdb
