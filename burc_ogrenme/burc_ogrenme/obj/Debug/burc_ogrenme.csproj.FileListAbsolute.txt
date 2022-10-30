@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\bin\Debug\burc_ogrenme.exe.config
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\bin\Debug\burc_ogrenme.exe
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\bin\Debug\burc_ogrenme.pdb
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\obj\Debug\burc_ogrenme.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\obj\Debug\burc_ogrenme.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\obj\Debug\burc_ogrenme.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\obj\Debug\burc_ogrenme.exe
+C:\Users\aliba\Desktop\burc_ogrenme\burc_ogrenme\obj\Debug\burc_ogrenme.pdb
