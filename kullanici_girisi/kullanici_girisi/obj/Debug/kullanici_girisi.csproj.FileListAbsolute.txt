@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\bin\Debug\kullanici_girisi.exe.config
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\bin\Debug\kullanici_girisi.exe
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\bin\Debug\kullanici_girisi.pdb
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\obj\Debug\kullanici_girisi.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\obj\Debug\kullanici_girisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\obj\Debug\kullanici_girisi.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\obj\Debug\kullanici_girisi.exe
+C:\Users\aliba\Desktop\kullanici_girisi\kullanici_girisi\obj\Debug\kullanici_girisi.pdb
