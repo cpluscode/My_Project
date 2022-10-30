@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\bin\Debug\etkinlik_önerme.exe.config
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\bin\Debug\etkinlik_önerme.exe
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\bin\Debug\etkinlik_önerme.pdb
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\obj\Debug\etkinlik_önerme.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\obj\Debug\etkinlik_önerme.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\obj\Debug\etkinlik_önerme.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\obj\Debug\etkinlik_önerme.exe
+C:\Users\aliba\Desktop\etkinlik_önerme\etkinlik_önerme\obj\Debug\etkinlik_önerme.pdb
