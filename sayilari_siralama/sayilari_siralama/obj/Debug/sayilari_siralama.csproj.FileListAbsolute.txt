@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\obj\Debug\sayilari_siralama.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\obj\Debug\sayilari_siralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\obj\Debug\sayilari_siralama.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\bin\Debug\sayilari_siralama.exe.config
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\bin\Debug\sayilari_siralama.exe
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\bin\Debug\sayilari_siralama.pdb
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\obj\Debug\sayilari_siralama.exe
+C:\Users\aliba\Desktop\sayilari_siralama\sayilari_siralama\obj\Debug\sayilari_siralama.pdb
