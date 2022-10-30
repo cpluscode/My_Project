@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.exe.config
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.exe
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\bin\Debug\ucak_bileti_hesaplama.pdb
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.exe
+C:\Users\aliba\Desktop\ucak_bileti_hesaplama\ucak_bileti_hesaplama\obj\Debug\ucak_bileti_hesaplama.pdb
