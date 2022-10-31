@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\bin\Debug\Artik_yil.exe.config
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\bin\Debug\Artik_yil.exe
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\bin\Debug\Artik_yil.pdb
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\obj\Debug\Artik_yil.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\obj\Debug\Artik_yil.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\obj\Debug\Artik_yil.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\obj\Debug\Artik_yil.exe
+C:\Users\aliba\Desktop\Artik_yil\Artik_yil\obj\Debug\Artik_yil.pdb
