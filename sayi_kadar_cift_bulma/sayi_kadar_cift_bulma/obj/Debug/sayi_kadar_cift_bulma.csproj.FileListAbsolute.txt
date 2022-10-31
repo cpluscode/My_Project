@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\bin\Debug\sayi_kadar_cift_bulma.exe.config
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\bin\Debug\sayi_kadar_cift_bulma.exe
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\bin\Debug\sayi_kadar_cift_bulma.pdb
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\obj\Debug\sayi_kadar_cift_bulma.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\obj\Debug\sayi_kadar_cift_bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\obj\Debug\sayi_kadar_cift_bulma.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\obj\Debug\sayi_kadar_cift_bulma.exe
+C:\Users\aliba\Desktop\sayi_kadar_cift_bulma\sayi_kadar_cift_bulma\obj\Debug\sayi_kadar_cift_bulma.pdb
