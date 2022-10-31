@@ -1,0 +1,8 @@
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\bin\Debug\cin_zodyagi.exe.config
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\bin\Debug\cin_zodyagi.exe
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\bin\Debug\cin_zodyagi.pdb
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\obj\Debug\cin_zodyagi.csproj.AssemblyReference.cache
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\obj\Debug\cin_zodyagi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\obj\Debug\cin_zodyagi.csproj.CoreCompileInputs.cache
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\obj\Debug\cin_zodyagi.exe
+C:\Users\aliba\Desktop\cin_zodyagi\cin_zodyagi\obj\Debug\cin_zodyagi.pdb
